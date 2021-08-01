@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Come, follow me.'
-    subtitle: Conference for Creative People
+    subtitle: Conference for young adults
     content: '**April 14 - 16, 2021**'
     actions:
       - label: Get Your Ticket Today!
