@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Come
+    title: 'Come, follow me.'
     subtitle: Conference for Creative People
     content: '**April 14 - 16, 2021**'
     actions:
