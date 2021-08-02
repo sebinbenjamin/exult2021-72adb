@@ -462,7 +462,7 @@ sections:
         image_align: right
         image_has_padding: false
         type: grid_item
-- title_align: left
+      - title_align: left
         content: |
           **Derick Daniel Padappackal**
           *General Coordinator, Exult 2021*
