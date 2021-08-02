@@ -15,8 +15,6 @@ sections:
     padding_bottom: large
     background_color: none
   - section_id: lorem-ipsum
-    content: |
-      *
     actions: []
     image_alt: lorem-ipsum
     media_position: top
