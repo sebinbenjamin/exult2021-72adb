@@ -29,14 +29,6 @@ sections:
         image_alt: Section item 1 icon
         image_position: left
         image_width: twenty-five
-      - title: 2 Tracks
-        title_align: left
-        content: Two tracks conference for curious developers.
-        content_align: left
-        image: images/2-tracks.svg
-        image_alt: Section item 2 icon
-        image_position: left
-        image_width: twenty-five
       - title: 20+ Speakers
         title_align: left
         content: Best in the field speakers and instructors.
