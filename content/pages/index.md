@@ -484,7 +484,7 @@ sections:
         image_align: right
         image_has_padding: false
         type: grid_item
-    grid_cols: two
+    grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: large
     enable_cards: false
@@ -504,7 +504,9 @@ seo:
       value: Exult 2021 | Jesus Youth New Zealand
       keyName: property
     - name: 'og:description'
-      value: Exult 2021 in an annual conference Jesus Youth conference for young adults.
+      value: >-
+        Exult 2021 in an annual conference Jesus Youth conference for young
+        adults.
       keyName: property
     - name: 'og:image'
       value: images/logo-normal-blue.png
@@ -515,7 +517,9 @@ seo:
     - name: 'twitter:title'
       value: Exult 2021 | Jesus Youth New Zealand
     - name: 'twitter:description'
-      value: Exult 2021 in an annual conference Jesus Youth conference for young adults.
+      value: >-
+        Exult 2021 in an annual conference Jesus Youth conference for young
+        adults.
     - name: 'twitter:image'
       value: images/logo-normal-blue.png
       relativeUrl: true
