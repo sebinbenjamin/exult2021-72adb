@@ -25,9 +25,8 @@ sections:
     grid_items:
       - title: 3 Days
         title_align: left
-        content: >-
-          Attend a two-track and two days conference on all things Jamstack,
-          gathering international.
+        content: |
+          what happens during the 3 days and why should you care
         content_align: left
         image: images/2-days.svg
         image_alt: Section item 1 icon
