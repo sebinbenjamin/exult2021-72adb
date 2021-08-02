@@ -392,19 +392,10 @@ sections:
         content_align: left
       - title: What about accommodation for attendees?
         title_align: left
-        content: >+
-          bed sheet pillow cover edukkanam ...akki set akkam  bed sheet pillow
-          cover edukkanam ...akki set akkam bed sheet pillow cover edukkanam
-          ...akki set akkam  bed sheet pillow cover edukkanam ...akki set
-          akkambed sheet pillow cover edukkanam ...akki set akkam  bed sheet
-          pillow cover edukkanam ...akki set akkam bed sheet pillow cover
-          edukkanam ...akki set akkam  bed sheet pillow cover edukkanam ...akki
-          set akkam
-
+        content: >
           bed sheet pillow cover edukkanam ...akki set akkam  bed sheet pillow
           cover edukkanam ...akki set akkam bed sheet pillow cover edukkanam
           ...akki set akkam  bed sheet pillow cover edukkanam ...akki set akkam
-
         content_align: left
       - title: Can I get a refund on my tickets?
         title_align: left
