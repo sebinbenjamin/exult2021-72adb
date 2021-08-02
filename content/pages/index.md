@@ -255,7 +255,7 @@ sections:
           a part of it.
 
 
-          **Hanson Deck,** Exult 2020
+          **Hanson Deck,** *Exult 2020*
         image: images/hanson-deck.jpg
         image_alt: Hanson Deck
         image_position: left
