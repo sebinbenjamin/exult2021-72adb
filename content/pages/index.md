@@ -445,8 +445,7 @@ sections:
     background_image_opacity: 50
   - type: grid_section
     grid_items:
-      - title: Derick Daniel Padappackal
-        content: |
+      - content: |
           General Coordinator
 
           \+64 29 127 0650
