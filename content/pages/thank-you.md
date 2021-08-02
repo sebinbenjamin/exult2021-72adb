@@ -18,7 +18,7 @@ sections:
     actions:
       - label: Back to home
         url: /
-        style: link
+        style: secondary
         has_icon: false
         icon: arrow-left
         icon_position: right
