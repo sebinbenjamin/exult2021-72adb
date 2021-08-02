@@ -26,7 +26,7 @@ sections:
       - title: 3 Days
         title_align: left
         content: |
-          what happens during the 3 days and why should you care
+          What happens during the 3 days and why should you care
         content_align: left
         image: images/2-days.svg
         image_alt: Section item 1 icon
