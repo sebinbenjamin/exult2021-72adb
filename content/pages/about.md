@@ -28,7 +28,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Jesus Youth is an international Catholic movement that challenges young people to live a meaningful, creative and fulfilling life.
+    Jesus Youth is an international Catholic movement that challenges young people to live a meaningful, creative and fulfilling life. This life begins with a personal, loving encounter with Jesus and continues as they grow in a joyful spirituality within a community of likeminded friends. Each person in the movement is called to live the faith every day by sharing the Good News in today’s diverse environments and by carrying the mission of the Church to the peripheries of our world. Jesus Youth is approved by the Holy See and present in over 25 countries.
 
 #### The Journey
 
