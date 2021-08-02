@@ -385,11 +385,21 @@ sections:
     grid_items:
       - title: How can I get to the venue?
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: |+
+          arelum car konde varerkum le 
+
+          arelum car konde varerkum le
+
+          arelum car konde varerkum le
+
+          arelum car konde varerkum le
+
+          arelum car konde varerkum le
+
+          arelum car konde varerkum le
+
+          arelum car konde varerkum le
+
         content_align: left
       - title: What about accommodation for attendees?
         title_align: left
