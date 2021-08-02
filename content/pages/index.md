@@ -484,7 +484,7 @@ sections:
         image_align: right
         image_has_padding: false
         type: grid_item
-    grid_cols: four
+    grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: large
     enable_cards: false
