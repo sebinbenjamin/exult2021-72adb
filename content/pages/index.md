@@ -392,11 +392,19 @@ sections:
         content_align: left
       - title: What about accommodation for attendees?
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >+
+          bed sheet pillow cover edukkanam ...akki set akkam  bed sheet pillow
+          cover edukkanam ...akki set akkam bed sheet pillow cover edukkanam
+          ...akki set akkam  bed sheet pillow cover edukkanam ...akki set
+          akkambed sheet pillow cover edukkanam ...akki set akkam  bed sheet
+          pillow cover edukkanam ...akki set akkam bed sheet pillow cover
+          edukkanam ...akki set akkam  bed sheet pillow cover edukkanam ...akki
+          set akkam
+
+          bed sheet pillow cover edukkanam ...akki set akkam  bed sheet pillow
+          cover edukkanam ...akki set akkam bed sheet pillow cover edukkanam
+          ...akki set akkam  bed sheet pillow cover edukkanam ...akki set akkam
+
         content_align: left
       - title: Can I get a refund on my tickets?
         title_align: left
