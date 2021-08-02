@@ -39,7 +39,7 @@ sections:
         image_width: twenty-five
     grid_cols: two
     grid_gap_horiz: medium
-    grid_gap_vert: large
+    grid_gap_vert: medium
     enable_cards: false
     align: center
     background_color: secondary
