@@ -447,8 +447,6 @@ sections:
     grid_items:
       - title: Address
         content: |
-          Derick Daniel Padappackal
-
           General Coordinator
 
           \+64 29 127 0650
