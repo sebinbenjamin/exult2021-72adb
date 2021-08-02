@@ -36,6 +36,10 @@ In the mid-1970s the flame of the Charismatic Renewal spread to India and to Ker
 
 These young people shared their experiences with those around, and as they moved into universities, schools, workplaces and cities, they continued to spread the exciting news of Jesus - forming prayer groups and cell groups. The spirituality, approach and creativity of the young people began to spread as a lifestyle. As many among them travelled to different countries, they carried their Jesus Youth lifestyle along with them, leading to the formation of Jesus Youth groups around the world.
 
+#### Jesus Youth New Zealand
+
+Something about jesus youth nz
+
 #### Jesus Youth Worldwide
 
 Though the movement began in the Southern part of India, the Jesus Youth way of life resonated among diverse cultures and the movement spread to the Middle East, Europe, South East Asia, US, Australia and Africa in a short span of time. Through migration and mission, Jesus Youth groups were reaching out to local cultures in different parts of the world. Today Jesus Youth groups have a local presence in over 25 countries and are spreading out into new cultural and geographical spaces around the world. Visit [Jesus Youth International](https://jesusyouth.org) to know more about Jesus Youth in your country and our initiatives.
