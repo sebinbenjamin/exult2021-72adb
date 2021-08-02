@@ -446,13 +446,14 @@ sections:
   - type: grid_section
     grid_items:
       - title: Address
-        content: |-
-          1234 Some St.<br/>
-          Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)<br/>
+        content: |
+          Derick Daniel Padappackal
 
-          **Time:** 9:30 AM to 3:30 PM
+          General Coordinator
+
+          \+64 29 127 0650
+
+          exult@jesusyouth.org.nz
       - title: Follow Us
         content: |-
           [Youtube](https://www.youtube.com/)<br/>
