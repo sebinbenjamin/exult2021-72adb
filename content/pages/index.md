@@ -470,7 +470,7 @@ sections:
           **Derick Daniel Padappackal**
 
           *General Coordinator, Exult 2021*
-          
+
           +64 29 127 0650
 
           exult@jesusyouth.org.nz
@@ -494,14 +494,14 @@ sections:
     background_color: none
     title: Contact us
 seo:
-  title: Stackbit Event Theme
+  title: Exult 2021 | Jesus Youth New Zealand
   description: The preview of the Event theme
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Event Theme
+      value: Exult 2021 | Jesus Youth New Zealand
       keyName: property
     - name: 'og:description'
       value: The preview of the Event theme
@@ -513,7 +513,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Event Theme
+      value: Exult 2021 | Jesus Youth New Zealand
     - name: 'twitter:description'
       value: The preview of the Event theme
     - name: 'twitter:image'
