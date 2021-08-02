@@ -451,8 +451,7 @@ sections:
           [Medium](https://medium.com/)<br/>
           [Facebook](https://www.facebook.com/)<br/>
           [Twitter](https://twitter.com/home)<br/>
-      - title: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: |
           General Coordinator
 
