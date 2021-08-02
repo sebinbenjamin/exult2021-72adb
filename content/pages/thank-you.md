@@ -16,7 +16,7 @@ sections:
     background_color: none
   - section_id: lorem-ipsum
     actions:
-      - label: lorem-ipsum
+      - label: Back to home
         url: '#'
         style: link
         has_icon: false
