@@ -7,7 +7,7 @@ sections:
     content: |
       October 22 - 25, 2021
     actions:
-      - label: Get Your Ticket Today!
+      - label: Get Your Spots Reserved Today!
         url: /about
         style: primary
     align: center
