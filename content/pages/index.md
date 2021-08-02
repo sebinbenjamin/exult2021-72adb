@@ -39,7 +39,7 @@ sections:
         image_width: twenty-five
       - title: Some other thing
         title_align: left
-        content: Best in the field speakers and instructors.
+        content: Some description for the thing.
         content_align: left
         image: images/2-tracks.svg
         image_alt: Section item 3 icon
