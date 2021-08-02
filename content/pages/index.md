@@ -250,12 +250,12 @@ sections:
     title: Testimonies
     subtitle: Previous event attendees
     grid_items:
-      - content: >-
+      - content: >
           I've had a wonderful few days at Event Conf. So grateful to have been
           a part of it.
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **Hanson Deck,** *Exult 2020, Participant *
         image: images/hanson-deck.jpg
         image_alt: Hanson Deck
         image_position: left
