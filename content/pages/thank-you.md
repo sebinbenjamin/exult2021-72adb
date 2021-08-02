@@ -15,7 +15,6 @@ sections:
     padding_bottom: large
     background_color: none
   - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
