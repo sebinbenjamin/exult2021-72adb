@@ -517,7 +517,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Event theme
     - name: 'twitter:image'
-      value: images/public/images/logo-normal-blue.png
+      value: images/logo-normal-blue.png
       relativeUrl: true
 layout: advanced
 ---
