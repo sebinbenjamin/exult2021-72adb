@@ -270,12 +270,12 @@ sections:
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
-      - content: >-
+      - content: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel.
 
 
-          **Eleanor Carr,** *CTO, Studio*
+          **Eleanor Carr,** *Exult 2020*
         image: images/eleanor-carr.jpg
         image_alt: Eleanor Carr
         image_position: left
