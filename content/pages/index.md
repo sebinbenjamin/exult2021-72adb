@@ -447,11 +447,11 @@ sections:
     grid_items:
       - title: Address
         content: |
-          Derick Daniel Padappackal
+          Derick Daniel Padappackal \<br>
 
-          General Coordinator
+          General Coordinator \<br>
 
-          \+64 29 127 0650
+          \+64 29 127 0650 \<br>
 
           exult@jesusyouth.org.nz
       - title: Follow Us
