@@ -453,6 +453,8 @@ sections:
           [Twitter](https://twitter.com/home)<br/>
       - title_align: left
         content: |
+          Derick Daniel Padappackal
+
           General Coordinator
 
           \+64 29 127 0650
