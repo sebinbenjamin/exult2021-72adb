@@ -7,7 +7,6 @@ sections:
     content: >
       October 22 - 25, 2021
 
-
       *Karakariki Christian Camp,\<br>471 Karakariki Road,*\<br>*Whatawhata
       3289*
     actions:
