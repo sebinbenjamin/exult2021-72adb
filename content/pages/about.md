@@ -38,6 +38,4 @@ These young people shared their experiences with those around, and as they moved
 
 #### Jesus Youth Worldwide
 
-Though the movement began in the Southern part of India, the Jesus Youth way of life resonated among diverse cultures and the movement spread to the Middle East, Europe, South East Asia, US, Australia and Africa in a short span of time. Through migration and mission, Jesus Youth groups were reaching out to local cultures in different parts of the world. Today Jesus Youth groups have a local presence in over 25 countries and are spreading out into new cultural and geographical spaces around the world. 
-
-Visit [Jesus Youth International](https://jesusyouth.org) to know more about Jesus Youth and our initiatives.
+Though the movement began in the Southern part of India, the Jesus Youth way of life resonated among diverse cultures and the movement spread to the Middle East, Europe, South East Asia, US, Australia and Africa in a short span of time. Through migration and mission, Jesus Youth groups were reaching out to local cultures in different parts of the world. Today Jesus Youth groups have a local presence in over 25 countries and are spreading out into new cultural and geographical spaces around the world. Visit [Jesus Youth International](https://jesusyouth.org) to know more about Jesus Youth in your country and our initiatives.
