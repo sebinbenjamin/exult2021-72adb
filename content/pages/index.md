@@ -507,7 +507,7 @@ seo:
       value: The preview of the Event theme
       keyName: property
     - name: 'og:image'
-      value: images/feature-3.jpg
+      value: images/logo-normal-blue.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -517,7 +517,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Event theme
     - name: 'twitter:image'
-      value: images/feature-3.jpg
+      value: images/public/images/logo-normal-blue.png
       relativeUrl: true
 layout: advanced
 ---
