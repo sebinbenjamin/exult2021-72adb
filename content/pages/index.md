@@ -98,7 +98,7 @@ sections:
     padding_top: none
     background_color: none
   - type: cta_section
-    title: The registration fee for Exult 2021 is $.
+    title: The registration fee for Exult 2021 is $150.
     actions:
       - label: Get tickets
         url: /thank-you
