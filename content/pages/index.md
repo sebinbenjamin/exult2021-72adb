@@ -489,7 +489,7 @@ sections:
     grid_gap_vert: large
     enable_cards: false
     align: center
-    padding_top: medium
+    padding_top: large
     padding_bottom: medium
     background_color: none
     title: Contact us
