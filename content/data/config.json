@@ -1,5 +1,5 @@
 {
-    "title": "Stackbit Event Theme",
+    "title": "Exult 2021 | Jesus Youth New Zealand",
     "path_prefix": "/",
     "layout_type": "full-width",
     "style": "classic",
@@ -86,5 +86,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://exult2021-72adb.netlify.app"
+    "domain": "https://exult2021-72adb.netlify.app",
+    "favicon": "/images/logo-normal-black.png"
 }
