@@ -452,16 +452,12 @@ sections:
           [Facebook](https://www.facebook.com/)<br/>
           [Twitter](https://twitter.com/home)<br/>
       - title_align: left
-        content: >
-          **Derick Daniel Padappackal
-          **![](https://preview--exult2021-72adb.stackbit.dev/\_static/app-assets/images/avatar\_5.jpg)
-
+        content: |
+          \*\*Derick Daniel Padappackal \*\*
 
           *General Coordinator, Exult 2021*
 
-
           \+64 29 127 0650
-
 
           exult@jesusyouth.org.nz
         content_align: left
