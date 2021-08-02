@@ -445,12 +445,6 @@ sections:
     background_image_opacity: 50
   - type: grid_section
     grid_items:
-      - title: Follow Us
-        content: |-
-          [Youtube](https://www.youtube.com/)<br/>
-          [Medium](https://medium.com/)<br/>
-          [Facebook](https://www.facebook.com/)<br/>
-          [Twitter](https://twitter.com/home)<br/>
       - title_align: left
         content: |
           **Derick Daniel Padappackal**
