@@ -3,7 +3,7 @@ title: Thank You
 sections:
   - type: hero_section
     title: Thank You!
-    subtitle: Thank you for testing the Event theme!
+    subtitle: Thank you for registering for Exult 2021!
     actions:
       - label: Back to homepage
         url: /
