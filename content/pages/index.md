@@ -452,7 +452,6 @@ sections:
           [Facebook](https://www.facebook.com/)<br/>
           [Twitter](https://twitter.com/home)<br/>
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
