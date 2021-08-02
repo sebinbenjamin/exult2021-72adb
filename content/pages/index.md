@@ -453,17 +453,12 @@ sections:
           [Twitter](https://twitter.com/home)<br/>
       - title: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          General Coordinator
 
+          \+64 29 127 0650
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          exult@jesusyouth.org.nz
         content_align: left
         actions: []
         actions_align: left
