@@ -404,7 +404,7 @@ sections:
           ...bakki set akkam  bed sheet pillow cover edukkanam ...bakki set
           akkam
         content_align: left
-      - title: Can I get a refund on my tickets?
+      - title: Can I get a refund on my registration?
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
