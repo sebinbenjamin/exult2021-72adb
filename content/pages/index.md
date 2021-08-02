@@ -495,7 +495,7 @@ sections:
     title: Contact us
 seo:
   title: Exult 2021 | Jesus Youth New Zealand
-  description: The preview of the Event theme
+  description: Exult 2021 in an annual conference Jesus Youth conference for young adults.
   extra:
     - name: 'og:type'
       value: website
@@ -504,7 +504,7 @@ seo:
       value: Exult 2021 | Jesus Youth New Zealand
       keyName: property
     - name: 'og:description'
-      value: The preview of the Event theme
+      value: Exult 2021 in an annual conference Jesus Youth conference for young adults.
       keyName: property
     - name: 'og:image'
       value: images/logo-normal-blue.png
@@ -515,7 +515,7 @@ seo:
     - name: 'twitter:title'
       value: Exult 2021 | Jesus Youth New Zealand
     - name: 'twitter:description'
-      value: The preview of the Event theme
+      value: Exult 2021 in an annual conference Jesus Youth conference for young adults.
     - name: 'twitter:image'
       value: images/logo-normal-blue.png
       relativeUrl: true
