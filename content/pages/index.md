@@ -385,21 +385,10 @@ sections:
     grid_items:
       - title: How can I get to the venue?
         title_align: left
-        content: |+
-          arelum car konde varerkum le 
-
-          arelum car konde varerkum le
-
-          arelum car konde varerkum le
-
-          arelum car konde varerkum le
-
-          arelum car konde varerkum le
-
-          arelum car konde varerkum le
-
-          arelum car konde varerkum le
-
+        content: >
+          arelum car konde varerkum le arelum car konde varerkum le arelum car
+          konde varerkum le arelum car konde varerkum le arelum car konde
+          varerkum le arelum car konde varerkum le arelum car konde varerkum le
         content_align: left
       - title: What about accommodation for attendees?
         title_align: left
