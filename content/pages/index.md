@@ -4,17 +4,14 @@ sections:
   - type: hero_section
     title: 'Come, follow me.'
     subtitle: Conference for young adults
-    content: |+
+    content: |
       October 22 - 25, 2021
 
       *Karakariki Christian Camp,*
 
-      *471 Karakariki Road, *
+      *471 Karakariki Road,*
 
       *Whatawhata 3289*
-
-
-
     actions:
       - label: Get Your Spots Reserved Today!
         url: /about
