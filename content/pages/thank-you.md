@@ -17,7 +17,7 @@ sections:
   - section_id: lorem-ipsum
     actions:
       - label: Back to home
-        url: '#'
+        url: /home/
         style: link
         has_icon: false
         icon: arrow-left
