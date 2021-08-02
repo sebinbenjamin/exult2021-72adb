@@ -445,10 +445,6 @@ sections:
     background_image_opacity: 50
   - type: grid_section
     grid_items:
-      - content: |
-          General Coordinator
-          \+64 29 127 0650exult@jesusyouth.org.nz
-        subtitle: Derick Daniel Padappackal
       - title: Follow Us
         content: |-
           [Youtube](https://www.youtube.com/)<br/>
