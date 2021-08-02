@@ -19,11 +19,6 @@
                 "style": "link"
             },
             {
-                "label": "Sponsorship",
-                "url": "/sponsorship",
-                "style": "link"
-            },
-            {
                 "label": "Register",
                 "url": "/thank-you",
                 "style": "primary"
