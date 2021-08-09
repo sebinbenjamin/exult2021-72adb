@@ -9,7 +9,9 @@ sections:
 
       [*Karakariki Christian Camp*](https://goo.gl/maps/nnUJKAANdQp82GFJA),
 
-      *471 Karakariki Road*,*Whatawhata 3289*
+      *471 Karakariki Road*,
+
+      *Whatawhata 3289*
     actions:
       - label: Get Your Spots Reserved Today!
         url: /about
