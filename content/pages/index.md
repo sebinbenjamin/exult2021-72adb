@@ -346,7 +346,7 @@ sections:
         type: grid_item
       - title_align: left
         content: |+
-          d
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d197.1222294724007!2d175.1135378463357!3d-37.767637581579336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d6d258c37b050c3%3A0xd79b04aab776a462!2sKarakariki%20Christian%20Camp!5e0!3m2!1sen!2snz!4v1628545597075!5m2!1sen!2snz" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
         content_align: left
         actions: []
