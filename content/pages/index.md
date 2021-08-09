@@ -19,7 +19,7 @@ sections:
     padding_bottom: large
     background_color: none
     background_image: images/hero-background.jpg
-    background_image_opacity: 15
+    background_image_opacity: 80
     background_image_size: cover
   - type: features_section
     title: What you’ll experience
