@@ -346,7 +346,7 @@ sections:
         type: grid_item
       - title_align: left
         content: |+
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3153.937595172346!2d175.11502049286804!3d-37.76806142051929!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd79b04aab776a462!2sKarakariki%20Christian%20Camp!5e0!3m2!1sen!2snz!4v1628546916517!5m2!1sen!2snz" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>    
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3153.937595172346!2d175.11502049286804!3d-37.76806142051929!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd79b04aab776a462!2sKarakariki%20Christian%20Camp!5e0!3m2!1sen!2snz!4v1628546916517!5m2!1sen!2snz" width="500" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>    
         content_align: left
         actions: []
         actions_align: left
