@@ -346,7 +346,7 @@ sections:
         type: grid_item
       - title_align: left
         content: |+
-          <iframe src="https://www.google.com/maps/embed/v1/place&q=place_id:ChIJw1CwN4wlbW0RYqR2t6oEm9c&zoom=8" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+          <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJw1CwN4wlbW0RYqR2t6oEm9c&zoom=8" width="500" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
         content_align: left
         actions: []
         actions_align: left
