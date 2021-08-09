@@ -10,7 +10,7 @@ sections:
       [*Karakariki Christian Camp*](https://goo.gl/maps/nnUJKAANdQp82GFJA),
 
       *471 Karakariki Road*,
-      
+
       *Whatawhata 3289*
     actions:
       - label: Get Your Spots Reserved Today!
@@ -342,6 +342,30 @@ sections:
         image_position: top
         image_width: twenty-five
         image_align: right
+        image_has_padding: false
+        type: grid_item
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        title_align: left
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
         image_has_padding: false
         type: grid_item
     grid_cols: three
