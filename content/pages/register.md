@@ -2,7 +2,7 @@
 title: Register
 sections:
   - section_id: lorem-ipsum
-    title: Exult Registration
+    title: Registration
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
