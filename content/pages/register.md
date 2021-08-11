@@ -5,7 +5,7 @@ sections:
     title: Registration
     subtitle: Exult 2021
     features:
-      - content: >
+      - content: |+
           <style type="text/css"> html{ margin: 0; height: 100%; overflow:
           hidden; } iframe { position: absolute; left:0; right:0; bottom:0;
           top:0; border: 0; } </style> </head> <body> <iframe id="typeform-full"
