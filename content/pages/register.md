@@ -3,7 +3,7 @@ title: Register
 sections:
   - section_id: lorem-ipsum
     title: Registration
-    subtitle: lorem-ipsum
+    subtitle: Exult 2021
     actions: []
     grid_items: []
     grid_cols: three
