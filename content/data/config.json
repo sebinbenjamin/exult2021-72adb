@@ -22,7 +22,7 @@
                 "label": "Register",
                 "url": "/thank-you",
                 "style": "primary",
-                "new_window": true
+                "new_window": false
             }
         ]
     },
