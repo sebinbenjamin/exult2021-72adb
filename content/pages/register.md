@@ -3,7 +3,7 @@ title: Register
 sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Exult 2021
     features:
       - content: |
           Exult
