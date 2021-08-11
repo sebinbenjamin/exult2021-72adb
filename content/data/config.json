@@ -21,7 +21,8 @@
             {
                 "label": "Register",
                 "url": "/thank-you",
-                "style": "primary"
+                "style": "primary",
+                "new_window": true
             }
         ]
     },
