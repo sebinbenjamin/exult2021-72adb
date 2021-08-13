@@ -1,7 +1,7 @@
 ---
 title: Exult 2021 - Registration
 sections:
-  - section_id: Exult 2021
+  - section_id: Exult 2021 Registration
     features:
       - content: >
           <div class="typeform-widget"
