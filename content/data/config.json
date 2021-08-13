@@ -20,7 +20,7 @@
             },
             {
                 "label": "Register",
-                "url": "/thank-you",
+                "url": "/register",
                 "style": "primary",
                 "new_window": false
             }
