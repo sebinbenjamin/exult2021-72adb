@@ -3,8 +3,7 @@ title: lorem-ipsum
 sections:
   - section_id: lorem-ipsum
     features:
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
