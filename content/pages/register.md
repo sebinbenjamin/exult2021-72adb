@@ -1,7 +1,7 @@
 ---
 title: Exult 2021 - Registration
 sections:
-  - section_id: lorem-ipsum
+  - section_id: Exult 2021
     features:
       - content: >
           <div class="typeform-widget"
