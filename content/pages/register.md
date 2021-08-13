@@ -1,5 +1,5 @@
 ---
-title: Exult Registration
+title: Exult 2021 Registration
 sections:
   - section_id: lorem-ipsum
     features:
