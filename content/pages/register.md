@@ -23,8 +23,8 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
 seo:
-  title: ''
-  description: ''
+  title: 'Exult 2021 registration'
+  description: 'Registration form for Exult 2021, a Jesus Youth initiative.'
   robots: []
   extra: []
   type: stackbit_page_meta
