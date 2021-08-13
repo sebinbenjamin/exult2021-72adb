@@ -3,17 +3,8 @@ title: lorem-ipsum
 sections:
   - section_id: lorem-ipsum
     features:
-      - content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+      - content: |
+          s
         actions: []
         image_alt: lorem-ipsum
         media_position: top
