@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Exult Registration
 sections:
   - section_id: lorem-ipsum
     features:
