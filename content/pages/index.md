@@ -238,10 +238,8 @@ sections:
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
-      - content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel.
-
+      - content: |
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
           **Sruthy Jose Prasad,** *Exult 2019*
         image: /images/sruthy.jpg
