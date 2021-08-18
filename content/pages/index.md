@@ -196,6 +196,15 @@ sections:
           <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fjynewzealand%2Fvideos%2F2703890199924400%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
         media_position: left
         media_width: sixty
+    - title: Exult 2020 Highlights
+        content: >-
+          Inspired by Colin Kaepernick, Nike created the Emmy-winning ‘Dream
+          Crazy’ campaign and approached digital agency Matter Supply to launch
+          it on the web within a month.
+        video_embed_html: >-
+          <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fjynewzealand%2Fvideos%2F2703890199924400%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+        media_position: left
+        media_width: sixty
       - title: Fast tracks Iconic Nike campaign with the JAMstack
         content: >-
           Inspired by Colin Kaepernick, Nike created the Emmy-winning ‘Dream
