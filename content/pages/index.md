@@ -213,8 +213,7 @@ sections:
           picture-in-picture" allowfullscreen></iframe>
         media_position: left
         media_width: sixty
-      - subtitle: lorem-ipsum
-        actions: []
+      - actions: []
         image_alt: lorem-ipsum
         media_position: top
         media_width: fifty
