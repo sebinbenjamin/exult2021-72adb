@@ -216,7 +216,7 @@ sections:
       - actions: []
         image_alt: lorem-ipsum
         media_position: top
-        media_width: thirty-three
+        media_width: sixty
         align: left
         type: feature
         image: /images/exult2020.jpg
