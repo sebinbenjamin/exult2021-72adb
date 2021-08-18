@@ -321,13 +321,13 @@ sections:
         type: grid_item
       - title_align: left
         content: |
-          **Derick Daniel Padappackal**
+          **Michy Tom**
 
-          *General Coordinator, Exult 2021*
+          *Asst. National Coordinator, Jesus Youth New Zealand*
 
-          +64 29 127 0650
+          \+64 02 10509520
 
-          exult@jesusyouth.org.nz
+          jyntnz@jesusyouth.org.nz
         content_align: left
         actions: []
         actions_align: left
