@@ -235,7 +235,7 @@ sections:
           conference realy enjoy it!
 
 
-          **Miles Tone,** *Exult 2019*
+          **Namita Sonia Iyer,** *Exult 2019*
         image: images/miles-tone.jpg
         image_alt: Miles Tone
         image_position: left
