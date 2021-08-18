@@ -213,8 +213,7 @@ sections:
           picture-in-picture" allowfullscreen></iframe>
         media_position: left
         media_width: sixty
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
