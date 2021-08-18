@@ -243,7 +243,7 @@ sections:
           ligula, cursus id molestie vel.
 
 
-          **Eleanor Carr,** *Exult 2020*
+          **Sruthy Jose Prasad,** *Exult 2019*
         image: images/eleanor-carr.jpg
         image_alt: Eleanor Carr
         image_position: left
