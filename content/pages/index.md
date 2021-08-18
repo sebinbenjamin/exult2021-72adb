@@ -222,12 +222,10 @@ sections:
     title: Testimonies
     subtitle: Previous event attendees
     grid_items:
-      - content: >
-          I've had a wonderful few days at Event Conf. So grateful to have been
-          a part of it.
+      - content: |
+          Grew bolder and in love with our Father in Heaven.
 
-
-          **Hanson Deck,** *Exult 2020*
+          **Ann Terin Mathew,** *Exult 2020*
         image: images/hanson-deck.jpg
         image_alt: Hanson Deck
         image_position: left
