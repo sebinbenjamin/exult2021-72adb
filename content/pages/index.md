@@ -325,7 +325,7 @@ sections:
 
           *Asst. Coordinator, Jesus Youth New Zealand*
 
-          \+64 02 10509520
+          \+64 02 105 09520
 
           jyntnz@jesusyouth.org.nz
         content_align: left
