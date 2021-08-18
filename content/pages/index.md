@@ -232,6 +232,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: /images/exult2020.jpg
     feature_padding_vert: large
     align: center
     padding_top: large
