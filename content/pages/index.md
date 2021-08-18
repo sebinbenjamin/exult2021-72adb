@@ -216,7 +216,7 @@ sections:
       - actions: []
         image_alt: Exult 2020
         media_position: top
-        media_width: fifty
+        media_width: sixty
         align: left
         type: feature
         image: /images/exult2020.jpg
