@@ -244,7 +244,7 @@ sections:
 
 
           **Sruthy Jose Prasad,** *Exult 2019*
-        image: images/eleanor-carr.jpg
+        image: /images/sruthy.jpg
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
