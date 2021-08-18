@@ -214,7 +214,7 @@ sections:
         media_position: left
         media_width: sixty
       - actions: []
-        image_alt: Exult 2021
+        image_alt: Exult 2020
         media_position: top
         media_width: sixty
         align: left
