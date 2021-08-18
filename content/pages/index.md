@@ -323,7 +323,7 @@ sections:
         content: |
           **Michy Tom**
 
-          *Asst. National Coordinator, Jesus Youth New Zealand*
+          *Asst. Coordinator, Jesus Youth New Zealand*
 
           \+64 02 10509520
 
