@@ -234,7 +234,7 @@ sections:
           A present from the Lord wrapped in love and sealed with joy.
 
           **Namita Sonia Iyer,** *Exult 2019*
-        image: images/miles-tone.jpg
+        image: /images/namita-edit.jpg
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
