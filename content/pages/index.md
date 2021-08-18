@@ -218,7 +218,7 @@ sections:
           picture-in-picture" allowfullscreen></iframe>
         media_position: right
         media_width: sixty
-      - title: Fast tracks Iconic Nike campaign with the JAMstack
+      - title: Exult 2020 exhibitions
         content: >-
           Inspired by Colin Kaepernick, Nike created the Emmy-winning ‘Dream
           Crazy’ campaign and approached digital agency Matter Supply to launch
