@@ -16,7 +16,7 @@ sections:
       - label: Get Your Spots Reserved Today!
         url: /register
         style: primary
-    align: center
+    align: right
     padding_top: large
     padding_bottom: large
     background_color: primary
