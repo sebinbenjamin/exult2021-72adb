@@ -187,7 +187,7 @@ sections:
     title: Watch Favorite Talks From Past Events
     subtitle: '2020'
     features:
-      - title: Exult 2021 Highlights
+      - title: Exult 2020 Highlights
         content: >-
           Inspired by Colin Kaepernick, Nike created the Emmy-winning ‘Dream
           Crazy’ campaign and approached digital agency Matter Supply to launch
