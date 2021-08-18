@@ -226,7 +226,7 @@ sections:
           Grew bolder and in love with our Father in Heaven.
 
           **Ann Terin Mathew,** *Exult 2020*
-        image: images/hanson-deck.jpg
+        image: /images/terin-testimony.jpg
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
