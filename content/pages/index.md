@@ -31,7 +31,7 @@ sections:
           and webinars from Stackbit.
         align: center
     feature_padding_vert: medium
-    align: center
+    align: right
     padding_top: medium
     padding_bottom: medium
     background_color: none
